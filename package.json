@@ -1,6 +1,12 @@
 {
   "name": "@wxiaochuan/yarn-clean",
   "version": "0.0.1",
+  "description": "clean yarn1 cache",
+  "keywords": [
+    "yarn",
+    "cache",
+    "clean"
+  ],
   "bin": {
     "yarn-clean": "./dist/cli/index.js"
   },
