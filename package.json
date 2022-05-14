@@ -1,6 +1,6 @@
 {
   "name": "@wxiaochuan/yarn-clean",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "clean yarn1 cache",
   "keywords": [
     "yarn",

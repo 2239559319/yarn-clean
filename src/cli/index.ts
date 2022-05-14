@@ -24,6 +24,7 @@ async function start() {
 
   await rmPkgList(pkgNeedRemove);
   log('remove done');
+  console.log('\x1b[36m%s\x1b[0m', `${pkgNeedRemove.length} pkgs remove done`);
   return Promise.resolve();
 }
 
